@@ -1,3 +1,6 @@
+<img src="./Gemini_Generated_Image_yo9o9ryo9o9ryo9o.png" alt="Arafat Rahman Banner" width="100%" />
+
+
 Hi 👋 I'm <strong>Arafat Rahman</strong>, a passionate <strong>Frontend Developer</strong> and <strong>MERN Stack Developer</strong> from Bangladesh 🇧🇩.<br><br>
 I specialize in building <strong>modern, responsive, and scalable web applications</strong> using JavaScript and the MERN stack. I enjoy transforming ideas into real-world digital products and creating clean, user-focused interfaces that deliver great user experiences.<br><br>
 I am continuously improving my skills by working on practical projects, exploring new technologies, and following best practices in modern web development.
