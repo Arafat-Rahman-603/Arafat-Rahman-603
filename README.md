@@ -1,4 +1,4 @@
-<img src="./Gemini_Generated_Image_yo9o9ryo9o9ryo9o.png" alt="Arafat Rahman Banner" width="100%" />
+<img src="./Gemini_Generated_Image_yo9o9ryo9o9ryo9o.png" alt="Arafat Rahman Banner" width="100%"  />
 
 
 Hi 👋 I'm <strong>Arafat Rahman</strong>, a passionate <strong>Frontend Developer</strong> and <strong>MERN Stack Developer</strong> from Bangladesh 🇧🇩.<br><br>
