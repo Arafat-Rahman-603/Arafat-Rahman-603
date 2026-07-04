@@ -104,66 +104,119 @@ I love turning ideas into production-ready digital products — from crafting be
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AetherAI
-AI-powered SaaS platform for instant customer support.
+## 🤖 AetherAI
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C9A7?style=flat-square&logo=vercel&logoColor=white)](https://aether-ai-support.vercel.app)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arafat-Rahman-603/AetherAI)
+> AI-powered SaaS platform for instant customer support.
 
-</td>
-<td width="50%">
+**Tech:** Next.js • Node.js • MongoDB • AI
 
-### 🚖 Uber Clone
-Real-time ride booking application with authentication and live maps.
+<a href="https://aether-ai-support.vercel.app">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-00C853?style=for-the-badge"/>
+</a>
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C9A7?style=flat-square&logo=vercel&logoColor=white)](https://uber-beta-ten.vercel.app)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arafat-Rahman-603/Uber-Clone)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 NextShop
-Modern full-stack e-commerce platform.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C9A7?style=flat-square&logo=vercel&logoColor=white)](https://fancyplanet.vercel.app)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arafat-Rahman-603/nextshop-frontend)
+<a href="https://github.com/Arafat-Rahman-603/AetherAI">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
-</tr>
-<tr>
-<td width="50%">
 
-### 🏡 Home Rent
-Property browsing and rental platform.
+<td width="50%" valign="top">
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C9A7?style=flat-square&logo=vercel&logoColor=white)](https://home-rent-one.vercel.app)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arafat-Rahman-603/Home-Rent)
+## 🚖 Uber Clone
+
+> Real-time ride booking application with authentication & live maps.
+
+**Tech:** React • Express • MongoDB • Socket.io
+
+<a href="https://uber-beta-ten.vercel.app">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Arafat-Rahman-603/Uber-Clone">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ✨ K72 Clone
-Modern animated frontend clone with smooth motion design.
+## 🛒 NextShop
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C9A7?style=flat-square&logo=vercel&logoColor=white)](https://k72-ca-eta.vercel.app)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arafat-Rahman-603/K72-ca)
+> Modern Full Stack E-commerce platform.
+
+**Tech:** Next.js • PostgreSQL • Prisma • Stripe
+
+<a href="https://nextshop-two.vercel.app">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Arafat-Rahman-603/nextshop-frontend">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
-<td width="50%">
 
-### 💼 Portfolio Website
-Personal portfolio showcasing my projects and experience.
+<td width="50%" valign="top">
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C9A7?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-webpage-blue.vercel.app)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arafat-Rahman-603/pt-2.0)
+## 💬 NexChat
+
+> Real-time messaging application with authentication.
+
+**Tech:** React • Socket.io • Express • MongoDB
+
+<a href="https://nexchat-frontend.vercel.app">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Arafat-Rahman-603/nexchat-frontend">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🏡 Home Rent
+
+> Property browsing and rental platform.
+
+**Tech:** React • Tailwind CSS
+
+<a href="https://home-rent-one.vercel.app">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Arafat-Rahman-603/Home-Rent">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💼 Portfolio Website
+
+> Personal portfolio showcasing my projects and experience.
+
+**Tech:** React • Tailwind CSS • Framer Motion
+
+<a href="https://portfolio-webpage-blue.vercel.app">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Arafat-Rahman-603/pt-2.0">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 </tr>
@@ -237,7 +290,7 @@ Personal portfolio showcasing my projects and experience.
 
 <div align="center">
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Arafat-Rahman-603&icon=6&color=6)](https://visitcount.itsvg.in)
+
 
 <br/>
 
