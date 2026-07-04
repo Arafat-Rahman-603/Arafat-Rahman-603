@@ -1,4 +1,4 @@
-<img src="./hero-image.png" alt="Arafat Rahman Banner" width="100%"  />
+<!--<img src="./hero-image.png" alt="Arafat Rahman Banner" width="100%"  />-->
 
 
 <div align="center">
@@ -131,17 +131,8 @@ Real-time ride booking application with authentication and live maps.
 ### 🛒 NextShop
 Modern full-stack e-commerce platform.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C9A7?style=flat-square&logo=vercel&logoColor=white)](https://nextshop-two.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C9A7?style=flat-square&logo=vercel&logoColor=white)](https://fancyplanet.vercel.app)
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arafat-Rahman-603/nextshop-frontend)
-
-</td>
-<td width="50%">
-
-### 💬 NexChat
-Real-time messaging application built with Socket.io.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C9A7?style=flat-square&logo=vercel&logoColor=white)](https://nexchat-frontend.vercel.app)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arafat-Rahman-603/nexchat-frontend)
 
 </td>
 </tr>
@@ -153,15 +144,6 @@ Property browsing and rental platform.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C9A7?style=flat-square&logo=vercel&logoColor=white)](https://home-rent-one.vercel.app)
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arafat-Rahman-603/Home-Rent)
-
-</td>
-<td width="50%">
-
-### 🌍 Global Chat
-Real-time global chat application for instant worldwide messaging.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C9A7?style=flat-square&logo=vercel&logoColor=white)](https://chatterly-puce.vercel.app)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arafat-Rahman-603/Fontend)
 
 </td>
 </tr>
