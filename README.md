@@ -282,7 +282,7 @@ I love turning ideas into production-ready digital products — from crafting be
 
 <br/><br/>
 
-<a href="https://www.buymeacoffee.com/arafatrahman"><img src="https://img.shields.io/badge/☕_Buy_Me_a_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
+<a href="https://www.buymeacoffee.com/arafat.rahman"><img src="https://img.shields.io/badge/☕_Buy_Me_a_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
 
 </div>
 
