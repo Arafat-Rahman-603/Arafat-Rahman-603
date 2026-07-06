@@ -104,8 +104,6 @@ I love turning ideas into production-ready digital products — from crafting be
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
